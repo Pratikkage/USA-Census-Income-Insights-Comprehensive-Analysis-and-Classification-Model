@@ -6,6 +6,8 @@ The **USA Census Income Insights and Classification Model** project explores dat
 
 ## 💡 Key Features
 
+- **Exploratory Data Analysis (EDA)**: Comprehensive exploration of the census dataset to uncover trends, patterns, and anomalies in the data.
+- **Statistical Analysis**: Application of statistical techniques to understand the relationships between variables and their impact on income levels.
 - **Income Pattern Analysis**: In-depth exploration of income patterns based on demographic, social, and economic factors.
 - **Machine Learning Model**: Development of a classification model to predict individual income levels based on census data.
 - **Data Visualization**: Interactive dashboards showcasing insights derived from the analysis.
@@ -17,3 +19,4 @@ The **USA Census Income Insights and Classification Model** project explores dat
 - **Pandas**: For data manipulation and analysis.
 - **Scikit-Learn**: For building and evaluating machine learning models.
 - **Matplotlib / Seaborn**: For data visualization.
+- **Microsoft PowerPoint**: For presenting findings and insights to stakeholders.
