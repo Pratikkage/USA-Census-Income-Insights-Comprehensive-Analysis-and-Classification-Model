@@ -1,7 +1,5 @@
 # USA Census Income Insights Analytics and Classification Model
 
-![Dashboard Preview](img.jpg)
-
 ## 📋 Overview
 
 The **USA Census Income Insights and Classification Model** project explores data from the 1994 U.S. Census to analyze income patterns and develop a machine learning model that predicts individual income levels. This project’s analysis serves to understand demographic, social, and economic factors that correlate with income, providing a reliable foundation for income prediction and insights into the U.S. population.
