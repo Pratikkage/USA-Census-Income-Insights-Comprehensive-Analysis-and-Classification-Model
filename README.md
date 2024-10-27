@@ -19,4 +19,3 @@ The **USA Census Income Insights and Classification Model** project explores dat
 - **Pandas**: For data manipulation and analysis.
 - **Scikit-Learn**: For building and evaluating machine learning models.
 - **Matplotlib / Seaborn**: For data visualization.
-- **Microsoft PowerPoint**: For presenting findings and insights to stakeholders.
